@@ -1,0 +1,10 @@
+hasmap colition
+
+diff equalt and hasmap
+
+java 8
+comparator and comparable
+
+immutable class
+
+multi threading
