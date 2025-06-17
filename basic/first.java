@@ -3,12 +3,15 @@ package basic;
 /**
  * first
  */
-public class first {
+public class First {
 
-    const String a;
+    static String a;
 
-    public first() {
+    public First() {
         this.a="  ";
     }
-    
+     public static void main (String [] args ){
+        First first = new First();
+        System.out.println(first.a);
+     }
 }
