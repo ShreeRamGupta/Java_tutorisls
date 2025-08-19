@@ -16,7 +16,7 @@ public class AddArray {
             for(int i =0;i<nums1.length;i++){ 
                 if(nums1[i]>=nums2[a]){
                     if(nums1[i+1]>= nums2[a]){
-                        System.out.println(nums1[i].to);
+                        System.out.println(nums1[i]);
                         int temp = nums1[i+1];
                         nums1[i+1] = nums2[a];
                         nums1[i+2] = temp;
